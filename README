@@ -112,4 +112,4 @@ POST `/api/apply`
 
 - Email confirmations to applicants
 - Document upload uploads
-- PDF Certificate Generator (Like Courcera)
+- PDF Certificate Generator (Like Courcera, and others)
